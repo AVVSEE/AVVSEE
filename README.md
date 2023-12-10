@@ -1,4 +1,4 @@
-How to Use:
+How to Use the background_color_picker
 
 Upload Image & View Results:
 
